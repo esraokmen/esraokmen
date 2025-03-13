@@ -8,7 +8,8 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
 
 - Currently crafting 3D assets at **Funstop Games** for titles with 10M+ downloads
 - Always exploring new techniques in **Blender** and **Substance Painter**
-- Check out my portfolio at [esraokmen.art](https://esraokmen.art)
+- Check out my personal website at [esraokmen.art](https://esraokmen.art)
+- Check out my portfolio at [portfolio.esraokmen.art](https://portfolio.esraokmen.art)
 - Based in Turkey, working remotely with teams worldwide
 
 ## Tools & Technologies
