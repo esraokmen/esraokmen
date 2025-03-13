@@ -18,7 +18,7 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
   <img src="https://raw.githubusercontent.com/esraokmen/esraokmen/refs/heads/main/assets/img/unity.png" alt="unity" width="40" height="40"/>
   <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/substance.png" alt="substance.png" />
   <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/blender.png" alt="blender" width="40" height="40"/>
-  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/aftereffects.png" alt="after_effects" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/after_effects.png" alt="after_effects" width="40" height="40"/>
   <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/photoshop.png" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/premiere.png" alt="premiere.png" width="40" height="40"/>
 </p>
