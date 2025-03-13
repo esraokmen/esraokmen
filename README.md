@@ -6,11 +6,10 @@
 
 I bring 3D worlds to life through modeling, texturing, and optimization. With experience across mobile and hyper-casual games reaching millions of downloads, I transform concepts into polished game-ready assets.
 
-- 🔭 Currently crafting 3D assets at **Funstop Games** for titles with 10M+ downloads
-- 🌱 Always exploring new techniques in **Blender** and **Substance Painter**
-- 🎨 Check out my portfolio at [esraokmen.art](https://esraokmen.art)
-- 🌍 Based in Turkey, working remotely with teams worldwide
-- ⚡ Fun fact: My background in Electrical Engineering helps me optimize 3D assets for peak performance!
+- Currently crafting 3D assets at **Funstop Games** for titles with 10M+ downloads
+- Always exploring new techniques in **Blender** and **Substance Painter**
+- Check out my portfolio at [esraokmen.art](https://esraokmen.art)
+- Based in Turkey, working remotely with teams worldwide
 
 ## Tools & Technologies
 
@@ -25,10 +24,10 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
 
 ## 💼 Experience Highlights
 
-- Created 100+ high-quality 3D assets for mobile games with 10M+ downloads
-- Designed 30+ unique character skins improving user engagement
-- Specialized in hyper-casual game prototyping with 20+ game prototypes
-- Expertise in optimizing assets for mobile platforms
+- **Asset Creation Excellence**: Designed and optimized high-quality 3D assets for mobile games, contributing to titles exceeding 10M+ downloads
+- **Character Design Impact**: Developed unique character skins that measurably enhanced player engagement metrics and game longevity
+- **Global Collaboration**: Successfully delivered projects with international teams, adapting to diverse work cultures and technical requirements
+- **Performance Optimization**: Applied engineering background to create visually striking assets with minimal performance impact, ensuring smooth gameplay across mobile devices
 
 ## 🎯 Skills
 
