@@ -2,7 +2,7 @@
 
 <!--<img align="right" width="300" src="https://github.com/esraokmen/esraokmen/assets/your-asset-id/3d-model-showcase.gif" alt="3D art showcase"/>-->
 
-## 3D Game Artist & Digital Creator
+## 3D Game Artist
 
 I bring 3D worlds to life through modeling, texturing, and optimization. With experience across mobile and hyper-casual games reaching millions of downloads, I transform concepts into polished game-ready assets.
 
