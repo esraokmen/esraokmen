@@ -63,12 +63,14 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
   </tr>
 </table>
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/esraokmen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraokmen" height="30" width="40" /></a>
-  <a href="https://behance.net/esraokmen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="esraokmen" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://www.esraokmen.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E94D64?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:esraokmen16@gmail.com"><img src="https://img.shields.io/badge/Email-E94D64?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/esraokmen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E94D64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://behance.net/esraokmen" target="_blank"><img src="https://img.shields.io/badge/Behance-E94D64?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+</div>
 
 ---
 
