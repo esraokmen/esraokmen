@@ -12,13 +12,15 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
 - 🌍 Based in Turkey, working remotely with teams worldwide
 - ⚡ Fun fact: My background in Electrical Engineering helps me optimize 3D assets for peak performance!
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/esraokmen/esraokmen/refs/heads/main/assets/img/unity.png" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/substance.png" alt="substance.png" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/blender.png" alt="blender" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/aftereffects.png" alt="after_effects" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/photoshop.png" alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/premiere.png" alt="premiere.png" width="40" height="40"/>
 </p>
 
 ## 💼 Experience Highlights
