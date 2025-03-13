@@ -22,14 +22,14 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
   <img src="https://github.com/esraokmen/esraokmen/blob/main/assets/img/premiere.png" alt="premiere.png" width="40" height="40"/>
 </p>
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 - **Asset Creation Excellence**: Designed and optimized high-quality 3D assets for mobile games, contributing to titles exceeding 10M+ downloads
 - **Character Design Impact**: Developed unique character skins that measurably enhanced player engagement metrics and game longevity
 - **Global Collaboration**: Successfully delivered projects with international teams, adapting to diverse work cultures and technical requirements
 - **Performance Optimization**: Applied engineering background to create visually striking assets with minimal performance impact, ensuring smooth gameplay across mobile devices
 
-## 🎯 Skills
+## Skills
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
   </tr>
 </table>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="left">
   <a href="https://www.esraokmen.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E94D64?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
