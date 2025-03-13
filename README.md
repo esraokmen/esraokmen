@@ -65,7 +65,7 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="https://www.esraokmen.art" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E94D64?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:esraokmen16@gmail.com"><img src="https://img.shields.io/badge/Email-E94D64?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/esraokmen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E94D64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
