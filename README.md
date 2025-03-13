@@ -30,16 +30,38 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
 - Specialized in hyper-casual game prototyping with 20+ game prototypes
 - Expertise in optimizing assets for mobile platforms
 
-## 🎯 What I Do Best
+## 🎯 Skills
 
-```
-🔹 3D Modeling & Sculpting
-🔹 Texturing & Material Creation
-🔹 Rendering & Lighting
-🔹 Animation & Rigging
-🔹 Asset Optimization
-🔹 Shader Development
-```
+<table>
+  <tr>
+    <td align="center"><b>3D Creation</b></td>
+    <td align="center"><b>Technical</b></td>
+    <td align="center"><b>Production</b></td>
+  </tr>
+  <tr>
+    <td>
+      • 3D Modeling & Sculpting<br/>
+      • Character Design<br/>
+      • Environment Art<br/>
+      • Prop Creation<br/>
+      • Material Development
+    </td>
+    <td>
+      • UV Unwrapping<br/>
+      • Texturing & PBR Workflows<br/>
+      • Optimization (LODs)<br/>
+      • Shader Development<br/>
+      • Rigging & Animation
+    </td>
+    <td>
+      • Asset Pipeline Management<br/>
+      • Mobile Performance Optimization<br/>
+      • Unity Integration<br/>
+      • Hyper-casual Game Development<br/>
+      • Version Control (Git)
+    </td>
+  </tr>
+</table>
 
 ## 📫 Connect With Me
 
@@ -47,12 +69,6 @@ I bring 3D worlds to life through modeling, texturing, and optimization. With ex
   <a href="https://linkedin.com/in/esraokmen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraokmen" height="30" width="40" /></a>
   <a href="https://behance.net/esraokmen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="esraokmen" height="30" width="40" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraokmen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="esraokmen" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraokmen&show_icons=true&locale=en&theme=tokyonight" alt="esraokmen" />
 
 ---
 
